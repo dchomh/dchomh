@@ -3,13 +3,6 @@
 * Inside Solutions Engineer @ GitHub Japan  
 formerly at Cognizant, OSIsoft, Pfizer (student worker)
 
-##### :thinking: Currently looking in to
-
-* GitHub Advanced Security
-* GitHub Actions
-* Swift
-* Go (the board game)
-
 ##### :computer: Programming Languages
 * SQL (T-SQL, PL/SQL)
 * C#
