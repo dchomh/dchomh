@@ -3,21 +3,7 @@
 * Inside Solutions Engineer @ GitHub Japan  
 formerly at Cognizant, OSIsoft, Pfizer (student worker)
 
-##### :computer: Programming Languages
-* SQL (T-SQL, PL/SQL)
-* C#
-* Visual Basic (VBA)
-* DAX
-* MATLAB
-* Bash
-
-##### :globe_with_meridians: Spoken Languages
-* :us: English (Native level)
-* :jp: Japanese (Native level)
-* :kr: Korean (Professional working level)
-* :es: Spanish (Elementary level)
-
-##### :phone: Contact me
+##### :phone: Contact me / Details
 * [LinkedIn](https://www.linkedin.com/in/daniel-cho-97089775/)  
 
 <!--
