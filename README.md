@@ -1,7 +1,7 @@
 ### Hi there :wave:
 
 * Inside Solutions Engineer @ GitHub Japan  
-formerly at Cognizant, OSIsoft, Pfizer (student worker)
+formerly at Cognizant, OSIsoft, Pfizer
 
 ##### :phone: Contact me / Details
 * [LinkedIn](https://www.linkedin.com/in/daniel-cho-97089775/)  
