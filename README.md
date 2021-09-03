@@ -1,10 +1,16 @@
 ### Hi there :wave:
 
-* Inside Solutions Engineer @ GitHub Japan  
+* Field Solutions Engineer @ GitHub Japan  
 formerly at Cognizant, OSIsoft, Pfizer
 
 ##### :phone: Contact me / Details
 * [LinkedIn](https://www.linkedin.com/in/daniel-cho-97089775/)  
+
+##### Technical Interests
+* CI/CD Automation
+* Machine Learning, MLOps
+* Data Warehousing/Engineering
+
 
 <!--
 **dchomh/dchomh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
