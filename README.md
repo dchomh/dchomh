@@ -4,6 +4,7 @@
 formerly at Cognizant, OSIsoft, Pfizer
 
 ##### :phone: Contact me / Details
+* [Personal Website](https://danielcho.jp)
 * [LinkedIn](https://www.linkedin.com/in/daniel-cho-97089775/)  
 
 ##### Technical Interests
