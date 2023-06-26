@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-* Field Solutions Engineer @ GitHub Japan  
+* Senior Solutions Engineer @ GitHub Japan  
 formerly at Cognizant, OSIsoft, Pfizer
 
 ##### :phone: Contact me / Details
