@@ -1,11 +1,11 @@
 ### Hi there :wave:
 
-* Senior Solutions Engineer @ GitHub Japan  
+* Strategic Solutions Engineer @ GitHub Japan  
 formerly at Cognizant, OSIsoft, Pfizer
 
 ##### :phone: Contact me / Details
 * [Personal Website](https://danielcho.jp)
-* [LinkedIn](https://www.linkedin.com/in/daniel-cho-97089775/)  
+* [LinkedIn](https://www.linkedin.com/in/dchomh/)  
 
 ##### Technical Interests
 * CI/CD Automation
